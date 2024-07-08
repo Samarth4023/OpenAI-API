@@ -1,6 +1,6 @@
-# Prompt Engineering 🚀
+# OpenAI-API 🚀
 
-Welcome to the **Prompt Engineering** repository! This repository is designed for people around the world interested in exploring and testing the OpenAI Python library to access the OpenAI API. 🌍
+Welcome to the **OpenAI-API** repository! This repository is designed for people around the world interested in exploring and testing the OpenAI Python library to access the OpenAI API. 🌍
 
 ## Overview 📚
 
